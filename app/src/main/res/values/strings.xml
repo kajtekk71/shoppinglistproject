@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="appTitle">Shopping List</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Font_Size">Font Size</string>
+    <string name="Font_size_Description">Set font size of items in list</string>
+    <string name="Font_Color">Font Color</string>
+    <string name="Font_color_Description">Set font color of items in list</string>
+</resources>
